@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<database>
+	<!--Tables -->
+	<element name="sys_db_object" type="collection">
+		name="caller_access" max_length="40" choice="1" label="Caller Access" default="" attributes="update_exempt=true">
+			<choice>
+				<element value="1" label="Caller Tracking" />
+				<element value="2" label="Caller Restriction" />
+			</choice>
+		</element>
+	</element>
+</database>
