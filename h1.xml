@@ -343,8 +343,7 @@ current.setAbortAction(true);
 <sys_mod_count>0</sys_mod_count>
 <sys_recorded_at>159b806ba900000001</sys_recorded_at>
 <sys_updated_by>admin</sys_updated_by>
-<sys_updated_on>2017-01-19 20:55:52</sys_updated_on>
-<table/
+<sys_updated_on>2017-01-19 20:55:52</sys_updated_on
 <target_name>Root Table</target_name>
 <type>Application Menu</type>
 <update_domain>global</update_domain>
